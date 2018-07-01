@@ -1,0 +1,72 @@
+/*Designed by David Asiamah
+for ALC Challenge 2.0 MWS*/
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Orbitron');
+body {
+    font-family: 'Comfortaa';
+    text-transform: capitalize;
+    margin: auto;
+}
+
+.welcome-header {
+    font-family: 'Comfortaa', sans-serif;
+    background-color: #563D7C;
+    padding: 10px;
+    color: #ffffff;
+    margin: 0;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    padding: 1px;
+    margin: 1px;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    height: 70vh;
+    margin-top: 0;
+    box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.1), -30px 0px 40px rgba(0, 0, 0, 0.1);
+}
+
+.convert {
+    margin-top: 10;
+    margin-bottom: 5px;
+}
+
+.converter-body {
+    width: 400px;
+    height: 300px;
+    border: 2px solid #563D7C;
+    margin: auto;
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.inner-content {
+    margin: 0;
+}
+
+.option {
+    padding: 5px;
+    margin: 5px;
+}
+
+.input {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.btnConvert {
+    background-color: #563D7C;
+    color: #ffffff;
+    padding: 15px;
+    border: 1px;
+    border-radius: 7px;
+    margin: 5px 0px;
+    width: 12em;
+    font-family: 'Comfortaa';
+}
